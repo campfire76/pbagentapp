@@ -1,0 +1,85 @@
+[
+  {
+    "id": "12345678911",
+    "name": "Ashish Singh",
+    "details": "",
+    "mob": "9876476536",
+    "lastconn": "08 Dec, 2020",
+    "tickets" : [
+      { "request" : "I want to change my policy",
+        "raiseDate": "25th Apr’21",
+        "tid": "DL9CAB9009",
+        "product": "Car", 
+        "status": 0,
+        "expected":"30th Apr’21",
+        "statusExtra": "Waiting for insurer’s revert",
+        "update" : "May 02, 2021"},
+      {
+        "request" : "Not recieved my policy copy",
+        "raiseDate": "25th Apr’21",
+        "tid": "DL9CAB9010",
+        "product": "Health", 
+        "status": 1,
+        "expected":"30th Apr’21",
+        "expectedExtra": "Call",
+        "update" : "May 02, 2021"
+      }]
+        
+  },
+  {
+    "id": "12345678912",
+    "name": "Rohit Sharma",
+    "details": "BackEnd, Data Science",
+    "mob": "9876476536",
+    "lastconn": "08 Dec, 2020"
+  },
+  {
+    "id": "12345678913",
+    "name": "Aditya",
+    "details": "App Dev, E-Commerce",
+    "mob": "9876476536",
+    "lastconn": "08 Dec, 2020"
+  },
+  {
+    "id": "12345678914",
+    "name": "Pradeep Rawat",
+    "details": "Databases",
+    "mob": "9876476536",
+    "lastconn": "08 Dec, 2020"
+  },
+  {
+    "id": "12345678915",
+    "name": "Deepika",
+    "details": "Databases",
+    "mob": "9876476536",
+    "lastconn": "08 Dec, 2020"
+  },
+  {
+    "id": "12345678916",
+    "name": "Ashish Raj",
+    "details": "Game Dev, Desktop Apps, Mobile Apps",
+    "mob": "9876476536",
+    "lastconn": "08 Dec, 2020"
+  },
+  {
+    "id": "12345678917",
+    "name": "Shubh Mishra",
+    "details": "Operating Systems, VR, Web Browsers",
+    "mob": "9876476536",
+    "lastconn": "08 Dec, 2020"
+  },
+  {
+    "id": "12345678918",
+    "name": "Deepika",
+    "details": "System Administration, GUI Development",
+    "mob": "9876476536",
+    "lastconn": "08 Dec, 2020"
+  },
+  {
+    "id": "12345678919",
+    "name": "Ashish Sharma",
+    "details": "System Programming, Audio Editing, Big Data",
+    "mob": "9876476536",
+    "lastconn": "08 Dec, 2020"
+  }
+]
